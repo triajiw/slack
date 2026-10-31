@@ -67,6 +67,8 @@ All tools are prefixed `karyawan_`.
 - **Nathan** (`vibe-coding`) — build web/app (project Software Garansi Filter, belum dipasang di repo)
 
 ## Project Karyawan AI milik AJI
+Acuan brand: baca `brand-dokterfilter.md` di folder skill ini sebelum membuat konten apa pun.
+
 Default untuk kerjaan sosial media Dokter Filter: **Sosmed Filter** (`oYEwSGFQqggcDBaF57pP`). Panggil `karyawan_acc_project_switch` ke project ini di awal sesi kalau AJI tidak menyebut project lain.
 
 | Project | ID |
